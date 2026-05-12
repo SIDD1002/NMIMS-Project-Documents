@@ -1,0 +1,56 @@
+{
+  "shipments": [
+    {
+      "shipment_id": "SHP001",
+      "origin": "Mumbai, India",
+      "destination": "Delhi, India",
+      "current_location": "Vadodara, India",
+      "status": "In Transit",
+      "expected_delivery": "2026-05-14T18:00:00",
+      "delay_risk": "Medium",
+      "last_update": "2026-05-12T07:45:00",
+      "carrier": "BlueDart Logistics",
+      "weather_condition": "Heavy Rain",
+      "traffic_condition": "Moderate"
+    },
+    {
+      "shipment_id": "SHP002",
+      "origin": "Chennai, India",
+      "destination": "Bangalore, India",
+      "current_location": "Krishnagiri, India",
+      "status": "Delayed",
+      "expected_delivery": "2026-05-13T20:00:00",
+      "delay_risk": "High",
+      "last_update": "2026-05-12T08:10:00",
+      "carrier": "DHL Express",
+      "weather_condition": "Clear",
+      "traffic_condition": "Heavy"
+    },
+    {
+      "shipment_id": "SHP003",
+      "origin": "Kolkata, India",
+      "destination": "Hyderabad, India",
+      "current_location": "Bhubaneswar, India",
+      "status": "In Transit",
+      "expected_delivery": "2026-05-15T15:00:00",
+      "delay_risk": "Low",
+      "last_update": "2026-05-12T09:00:00",
+      "carrier": "FedEx Logistics",
+      "weather_condition": "Cloudy",
+      "traffic_condition": "Light"
+    },
+    {
+      "shipment_id": "SHP004",
+      "origin": "Delhi, India",
+      "destination": "Pune, India",
+      "current_location": "Indore, India",
+      "status": "On Time",
+      "expected_delivery": "2026-05-13T12:00:00",
+      "delay_risk": "Low",
+      "last_update": "2026-05-12T06:30:00",
+      "carrier": "Gati Logistics",
+      "weather_condition": "Sunny",
+      "traffic_condition": "Moderate"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+pip install pandas numpy scikit-learn streamlit
+
+streamlit run logistics_pipeline.py
